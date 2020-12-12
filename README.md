@@ -10,7 +10,7 @@ To simply, this module uses the standard 5 minute API from Comed, which returns 
 Uses the open/free api that ComEd publishes: https://hourlypricing.comed.com/api?type=currenthouraverage
 
 ## Preview
-![screenshot1](screenshot1.JPG) 
+![screenshot1](screenshot1.PNG) 
 
 ## Using the module
 run git clone https://github.com/contactmike1/MMM-ComEdPrice5Min from inside your MagicMirror/modules folder
